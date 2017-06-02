@@ -3,7 +3,7 @@
  * 
  * @author Dominic Goodman 3/26/2017
  * 
- *         Purpose: Not used in current verison serves no purpose current.
+ *         Purpose: Not used in project but defined due to rubric.
  */
 public class portTime
 {
